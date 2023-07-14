@@ -79,6 +79,13 @@ nav ul li a:hover {
    font-weight: 600;
 }
 
+.handle-bar h4{
+   margin-top: 20px;
+}
+
+.handle-bar h4 a {
+   color: white;
+}
 
 .form-section {
    align-items: center;
