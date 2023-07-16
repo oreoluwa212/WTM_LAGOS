@@ -110,9 +110,9 @@ nav ul li a:hover {
 }
 
 .comment {
-   width: 170px;
+   width: 300px;
    resize: none;
-   height: 250px;
+   height: 150px;
 }
 
 .submit-btn {
