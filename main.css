@@ -109,6 +109,10 @@ nav ul li a:hover {
    border: 0;
 }
 
+.comment {
+   width: 250px;
+}
+
 .submit-btn {
    color: rgb(67, 4, 104);
    margin: 60px 0px 0px 0px;
